@@ -8,13 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ERP+Developer;Website+Developer;Web+Application+Developer" alt="Typing Roles" />
 </a>
 
-<br/>
-
-<!-- Tech Scrolling Marquee -->
-<marquee behavior="scroll" direction="right" scrollamount="5">
-🐍 Python • Django &nbsp;|&nbsp; ⚙️ C# • .NET Core MVC &nbsp;|&nbsp; 🐘 PHP • Laravel &nbsp;|&nbsp; ⚛️ React • React Native &nbsp;|&nbsp; 🟢 Node.js &nbsp;|&nbsp; 🗄️ MySQL • MongoDB • PostgreSQL &nbsp;|&nbsp; ☕ Java &nbsp;|&nbsp; 🔵 C++ &nbsp;|&nbsp; 💡 Building Intelligent Systems &nbsp;|&nbsp; 🚀 OTech Engineering &amp; Technology Solution &nbsp;|&nbsp;
-</marquee>
-
 </div>
 
 ---
