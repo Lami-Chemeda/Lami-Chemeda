@@ -1,17 +1,18 @@
 <div align="center">
 
+<!-- Top Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:0d2137&height=220&section=header&text=Lami%20Chemeda%20Kitila&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20ERP%20Developer%20%E2%80%A2%20Web%20%26%20App%20Developer&descAlignY=60&descColor=00d4ff" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lami-Chemeda&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)
-
-<marquee behavior="scroll" direction="left" scrollamount="7">
-🧑‍💻 Lami Chemeda Kitila 🔥 ERP Developer ⚡ Full Stack Developer 🌐 Website Developer 📱 Web Application Developer 🔥 Lami Chemeda Kitila ⚡ ERP Developer 🌐 Full Stack Developer 📱 Website Developer 💻 Web Application Developer 🧑‍💻
-</marquee>
+<!-- Typing SVG for Roles (Animates one by one) -->
+<a href="https://github.com/Lami-Chemeda">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ERP+Developer;Website+Developer;Web+Application+Developer" alt="Typing Roles" />
+</a>
 
 <br/>
 
+<!-- Tech Scrolling Marquee -->
 <marquee behavior="scroll" direction="right" scrollamount="5">
-🐍 Python • Django | ⚙️ C# • .NET Core MVC | 🐘 PHP • Laravel | ⚛️ React • React Native | 🟢 Node.js | 🗄️ MySQL • MongoDB • PostgreSQL | ☕ Java | 🔵 C++ | 💡 Building Intelligent Systems | 🚀 OTech Engineering and Technology Solution |
+🐍 Python • Django &nbsp;|&nbsp; ⚙️ C# • .NET Core MVC &nbsp;|&nbsp; 🐘 PHP • Laravel &nbsp;|&nbsp; ⚛️ React • React Native &nbsp;|&nbsp; 🟢 Node.js &nbsp;|&nbsp; 🗄️ MySQL • MongoDB • PostgreSQL &nbsp;|&nbsp; ☕ Java &nbsp;|&nbsp; 🔵 C++ &nbsp;|&nbsp; 💡 Building Intelligent Systems &nbsp;|&nbsp; 🚀 OTech Engineering &amp; Technology Solution &nbsp;|&nbsp;
 </marquee>
 
 </div>
@@ -45,43 +46,14 @@ I'm currently working at **OTech Engineering and Technology Solution** as an **E
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Lami-Chemeda/Ethiopian-government-online-voting-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lami-Chemeda&repo=Ethiopian-government-online-voting-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
-  </a>
-  <a href="https://github.com/Lami-Chemeda/StudentRegistrationSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lami-Chemeda&repo=StudentRegistrationSystem&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
-  </a>
-</p>
+| | |
+| :--- | :--- |
+| **[🗳️ Ethiopian Online Voting System](https://github.com/Lami-Chemeda/Ethiopian-government-online-voting-system)**<br/><blockquote>Secure, real-time digital voting platform ensuring transparency and integrity for government elections.</blockquote><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> | **[🎓 Student Registration System](https://github.com/Lami-Chemeda/StudentRegistrationSystem)**<br/><blockquote>Full-featured academic registration portal handling student data, workflows, and administrative tasks.</blockquote><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> |
+| **[📄 Employee Resume Analyser AI](https://github.com/Lami-Chemeda/employee-resume-analyser-ai)**<br/><blockquote>AI-powered resume screening and analysis tool to extract key information and streamline HR processes.</blockquote><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/AI%20/%20ML-FF6F00?style=flat-square&logo=openai&logoColor=white"/> | **[🚚 Fleet Management System](https://github.com/Lami-Chemeda/fleet_management)**<br/><blockquote>Comprehensive enterprise system for tracking, maintaining, and managing company fleet operations efficiently.</blockquote><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> |
+| **[💱 Currency Convertor App](https://github.com/Lami-Chemeda/currency-convertor-app)**<br/><blockquote>Real-time cross-platform mobile application for accurate currency exchange rate conversions.</blockquote><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> | **[📦 Product Tracker](https://github.com/Lami-Chemeda/product_tracker)**<br/><blockquote>Inventory and product lifecycle tracking system designed for enterprise resource planning (ERP).</blockquote><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> |
 
 <p align="center">
-  <a href="https://github.com/Lami-Chemeda/employee-resume-analyser-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lami-Chemeda&repo=employee-resume-analyser-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
-  </a>
-  <a href="https://github.com/Lami-Chemeda/fleet_management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lami-Chemeda&repo=fleet_management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Lami-Chemeda/currency-convertor-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lami-Chemeda&repo=currency-convertor-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
-  </a>
-  <a href="https://github.com/Lami-Chemeda/product_tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lami-Chemeda&repo=product_tracker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Lami-Chemeda/lami-chemeda.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lami-Chemeda&repo=lami-chemeda.github.io&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
-  </a>
-  <a href="https://github.com/Lami-Chemeda/day2-erp-practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lami-Chemeda&repo=day2-erp-practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
-  </a>
-</p>
-
-<p align="center">
+  <br/>
   <a href="https://github.com/Lami-Chemeda?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Repositories-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
@@ -141,7 +113,7 @@ I'm currently working at **OTech Engineering and Technology Solution** as an **E
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lami-Chemeda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="Lami's GitHub Stats" width="48%"/>
+  <img src="https://github.readme-stats.vercel.app/api?username=Lami-Chemeda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="Lami's GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lami-Chemeda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" alt="Most Used Languages" width="40%"/>
 </p>
 
@@ -195,6 +167,7 @@ I'm currently working at **OTech Engineering and Technology Solution** as an **E
 
 ---
 
+<!-- Footer Wave Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:1a2744,100:0d1117&height=120&section=footer&text=⭐%20Code%20%E2%80%A2%20Build%20%E2%80%A2%20Innovate%20%E2%80%A2%20Solve%20%E2%80%A2%20Inspire%20⭐&fontSize=18&fontColor=00d4ff&animation=fadeIn"/>
 </div>
