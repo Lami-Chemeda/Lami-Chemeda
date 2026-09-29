@@ -6,9 +6,16 @@
 <!-- Profile Views Badge -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Lami-Chemeda&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)
 
-<!-- Marquee Scrolling Text -->
-<marquee behavior="scroll" direction="left" scrollamount="6">
-⚡ Full Stack Developer &nbsp;|&nbsp; 🏢 ERP Developer &nbsp;|&nbsp; 🌐 Web App Developer &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; 🐍 Python • Django &nbsp;|&nbsp; ⚙️ C# • .NET Core MVC &nbsp;|&nbsp; 🐘 PHP • Laravel &nbsp;|&nbsp; ⚛️ React • React Native &nbsp;|&nbsp; 🟢 Node.js &nbsp;|&nbsp; 🗄️ MySQL • MongoDB • PostgreSQL &nbsp;|&nbsp; ☕ Java • C++ &nbsp;|&nbsp; 💡 Building Intelligent Systems &nbsp;|&nbsp; 🚀 OTech Engineering &amp; Technology Solution &nbsp;|&nbsp; 🎓 Mekdela Amba University &nbsp;|&nbsp;
+<!-- Name & Role Marquee (above About Me) -->
+<marquee behavior="scroll" direction="left" scrollamount="7">
+🧑‍💻 &nbsp;<b>Lami Chemeda Kitila</b>&nbsp; 🔥 &nbsp;ERP Developer &nbsp;⚡&nbsp; Full Stack Developer &nbsp;🌐&nbsp; Website Developer &nbsp;📱&nbsp; Web Application Developer &nbsp;🔥&nbsp; <b>Lami Chemeda Kitila</b> &nbsp;⚡&nbsp; ERP Developer &nbsp;🌐&nbsp; Full Stack Developer &nbsp;📱&nbsp; Website Developer &nbsp;💻&nbsp; Web Application Developer &nbsp;🧑‍💻&nbsp;
+</marquee>
+
+<br/>
+
+<!-- Tech Scrolling Marquee -->
+<marquee behavior="scroll" direction="right" scrollamount="5">
+🐍 Python • Django &nbsp;|&nbsp; ⚙️ C# • .NET Core MVC &nbsp;|&nbsp; 🐘 PHP • Laravel &nbsp;|&nbsp; ⚛️ React • React Native &nbsp;|&nbsp; 🟢 Node.js &nbsp;|&nbsp; 🗄️ MySQL • MongoDB • PostgreSQL &nbsp;|&nbsp; ☕ Java &nbsp;|&nbsp; 🔵 C++ &nbsp;|&nbsp; 💡 Building Intelligent Systems &nbsp;|&nbsp; 🚀 OTech Engineering &amp; Technology Solution &nbsp;|&nbsp;
 </marquee>
 
 </div>
@@ -23,18 +30,7 @@ I'm **Lami Chemeda Kitila**, an **Information Technology** graduate from **Mekde
 
 I'm currently working at **OTech Engineering and Technology Solution** as an **ERP Developer & Fullstack Developer**, designing and deploying enterprise and web solutions since **May 2026**.
 
-🌍 **Portfolio:** [lami-chemeda-github-io-75n7.vercel.app](https://lami-chemeda-github-io-75n7.vercel.app/)
-
-### 🚀 Notable Projects I've Built
-
-- 🗳️ **Online Voting System** — Secure, real-time digital voting platform  
-- 📄 **Employee Resume Analyser** — AI-powered resume screening & analysis tool  
-- 🏢 **Employee Information Registration System** — Enterprise HR management system  
-- 🎓 **Student Online Registration System** — Full-featured academic registration portal  
-- 💱 **Currency Converter** — Real-time currency conversion web application  
-- ⚙️ **ERP Systems** — End-to-end enterprise resource planning solutions  
-
-> *"Building intelligent systems that bridge technology and real-world impact."*
+🌍 **Portfolio:** [Lami Chemeda | Full-Stack Developer Portfolio](https://lami-chemeda-github-io-75n7.vercel.app/)
 
 <br clear="right"/>
 
@@ -48,6 +44,52 @@ I'm currently working at **OTech Engineering and Technology Solution** as an **E
 - 📱 **Mobile Development** — Cross-platform mobile apps with React Native
 - 🤖 **AI & Intelligent Systems** — Intelligent automation & smart application development
 - 🖥️ **Web Application Development** — Dynamic, responsive, data-driven web applications
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Lami-Chemeda/Ethiopian-government-online-voting-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lami-Chemeda&repo=Ethiopian-government-online-voting-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
+  </a>
+  <a href="https://github.com/Lami-Chemeda/StudentRegistrationSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lami-Chemeda&repo=StudentRegistrationSystem&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lami-Chemeda/employee-resume-analyser-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lami-Chemeda&repo=employee-resume-analyser-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
+  </a>
+  <a href="https://github.com/Lami-Chemeda/fleet_management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lami-Chemeda&repo=fleet_management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lami-Chemeda/currency-convertor-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lami-Chemeda&repo=currency-convertor-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
+  </a>
+  <a href="https://github.com/Lami-Chemeda/product_tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lami-Chemeda&repo=product_tracker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lami-Chemeda/lami-chemeda.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lami-Chemeda&repo=lami-chemeda.github.io&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
+  </a>
+  <a href="https://github.com/Lami-Chemeda/day2-erp-practice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lami-Chemeda&repo=day2-erp-practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lami-Chemeda?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
