@@ -3,10 +3,10 @@
 <!-- Top Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:0d2137&height=220&section=header&text=Lami%20Chemeda%20Kitila&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20ERP%20Developer%20%E2%80%A2%20Web%20%26%20App%20Developer&descAlignY=60&descColor=00d4ff" />
 
-<br/>
-
-<h2 align="center">👋 Hello everyone, I am Lami!</h2>
-<h4 align="center">Full Stack Developer | ERP Developer | Web Application Developer</h4>
+<!-- Typing SVG for Roles (Animates one by one) -->
+<a href="https://github.com/Lami-Chemeda">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ERP+Developer;Website+Developer;Web+Application+Developer" alt="Typing Roles" />
+</a>
 
 <br/>
 
@@ -113,7 +113,7 @@ I'm currently working at **OTech Engineering and Technology Solution** as an **E
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lami-Chemeda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="Lami's GitHub Stats" width="48%"/>
+  <img src="https://github.readme-stats.vercel.app/api?username=Lami-Chemeda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="Lami's GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lami-Chemeda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" alt="Most Used Languages" width="40%"/>
 </p>
 
