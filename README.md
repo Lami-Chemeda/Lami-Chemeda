@@ -5,14 +5,18 @@
 
 <br/>
 
+<!-- Typing SVG for Roles (Animates one by one) -->
+<a href="https://github.com/Lami-Chemeda">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Full+Stack+Developer;ERP+Developer;Website+Developer;Web+Application+Developer" alt="Typing Roles" />
+</a>
+<br/>
+
 <h2 align="center">👋 Hello everyone, I am Lami!</h2>
 <h4 align="center">Full Stack Developer | ERP Developer | Web Application Developer</h4>
 
 <br/>
 
 </div>
-
----
 
 ## 🧑‍💻 About Me
 
