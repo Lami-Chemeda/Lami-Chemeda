@@ -7,6 +7,10 @@
 <a href="https://github.com/Lami-Chemeda">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ERP+Developer;Website+Developer;Web+Application+Developer" alt="Typing Roles" />
 </a>
+<br/>
+<h2 align="center">👋 Hello everyone, I am Lami!</h2>
+<h4 align="center">Full Stack Developer | ERP Developer | Web Application Developer</h4>
+<br/>
 
 </div>
 
