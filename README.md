@@ -1,21 +1,17 @@
 <div align="center">
 
-<!-- Top Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:0d2137&height=220&section=header&text=Lami%20Chemeda%20Kitila&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20ERP%20Developer%20%E2%80%A2%20Web%20%26%20App%20Developer&descAlignY=60&descColor=00d4ff" />
 
-<!-- Profile Views Badge -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Lami-Chemeda&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)
 
-<!-- Name & Role Marquee (above About Me) -->
 <marquee behavior="scroll" direction="left" scrollamount="7">
-🧑‍💻 &nbsp;<b>Lami Chemeda Kitila</b>&nbsp; 🔥 &nbsp;ERP Developer &nbsp;⚡&nbsp; Full Stack Developer &nbsp;🌐&nbsp; Website Developer &nbsp;📱&nbsp; Web Application Developer &nbsp;🔥&nbsp; <b>Lami Chemeda Kitila</b> &nbsp;⚡&nbsp; ERP Developer &nbsp;🌐&nbsp; Full Stack Developer &nbsp;📱&nbsp; Website Developer &nbsp;💻&nbsp; Web Application Developer &nbsp;🧑‍💻&nbsp;
+🧑‍💻 Lami Chemeda Kitila 🔥 ERP Developer ⚡ Full Stack Developer 🌐 Website Developer 📱 Web Application Developer 🔥 Lami Chemeda Kitila ⚡ ERP Developer 🌐 Full Stack Developer 📱 Website Developer 💻 Web Application Developer 🧑‍💻
 </marquee>
 
 <br/>
 
-<!-- Tech Scrolling Marquee -->
 <marquee behavior="scroll" direction="right" scrollamount="5">
-🐍 Python • Django &nbsp;|&nbsp; ⚙️ C# • .NET Core MVC &nbsp;|&nbsp; 🐘 PHP • Laravel &nbsp;|&nbsp; ⚛️ React • React Native &nbsp;|&nbsp; 🟢 Node.js &nbsp;|&nbsp; 🗄️ MySQL • MongoDB • PostgreSQL &nbsp;|&nbsp; ☕ Java &nbsp;|&nbsp; 🔵 C++ &nbsp;|&nbsp; 💡 Building Intelligent Systems &nbsp;|&nbsp; 🚀 OTech Engineering &amp; Technology Solution &nbsp;|&nbsp;
+🐍 Python • Django | ⚙️ C# • .NET Core MVC | 🐘 PHP • Laravel | ⚛️ React • React Native | 🟢 Node.js | 🗄️ MySQL • MongoDB • PostgreSQL | ☕ Java | 🔵 C++ | 💡 Building Intelligent Systems | 🚀 OTech Engineering and Technology Solution |
 </marquee>
 
 </div>
@@ -199,7 +195,6 @@ I'm currently working at **OTech Engineering and Technology Solution** as an **E
 
 ---
 
-<!-- Footer Wave Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:1a2744,100:0d1117&height=120&section=footer&text=⭐%20Code%20%E2%80%A2%20Build%20%E2%80%A2%20Innovate%20%E2%80%A2%20Solve%20%E2%80%A2%20Inspire%20⭐&fontSize=18&fontColor=00d4ff&animation=fadeIn"/>
 </div>
