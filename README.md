@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Top Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:0d2137&height=220&section=header&text=Lami%20Chemeda%20Kitila&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20ERP%20Developer%20%E2%80%A2%20Web%20%26%20App%20Developer&descAlignY=60&descColor=00d4ff" />
+<img src=".../api?type=waving&amp;color=0:0d1117&amp;height=220"/>
+type=waving&color=0:0d1117,50:1a2744,100:0d2137&height=220&section=header&text=Lami%20Chemeda%20Kitila&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20ERP%20Developer%20%E2%80%A2%20Web%20%26%20App%20Developer&descAlignY=60&descColor=00d4ff" />
 
 <!-- Typing SVG for Roles (Animates one by one) -->
 <a href="https://github.com/Lami-Chemeda">
